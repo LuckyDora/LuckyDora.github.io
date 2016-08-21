@@ -1,0 +1,68 @@
+.nav{
+	float:right;
+}
+.headpic{
+	float:right;
+	height: auto;
+	width: 200px;
+}
+.headpic img{
+	width:100%;
+	height: auto;
+}
+.info-content{
+	width:500px;
+	float:left;
+	line-height: 36px;
+}
+.gra-year{
+	float:left;
+	width:500px;
+	
+	
+}
+
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden}
+.clearfix{*+height:1%;}
+.progress{width:500px;height:20px;margin-top:10px;}
+.fl{
+	float:left;
+}
+.fr{
+	float:right;
+}
+.skill-content{
+	width:300px;
+	text-align: right;
+}
+.pdl{padding-right:250px;}
+.show-pru{
+	width: 300px;
+	
+}
+.show-name{
+	width: 100%
+	font-size:20px;
+	text-align: right;
+}
+.show-intro{
+	width: 100%
+	font-size:14px;
+	text-align: right;
+	color:#ccc;
+}
+.show-url{
+	width: 600px;
+	margin-top:10px;
+	padding-right: 100px;
+
+	
+}
+footer{
+	position: absolute;
+	bottom:0;
+	width:100%;
+	height: 50px;
+	background-color: #ccc;
+	text-align: center;
+}
